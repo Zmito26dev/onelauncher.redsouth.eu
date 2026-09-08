@@ -3,8 +3,8 @@
   "notice": {
     "enabled": true,
     "type": "alert",
-    "title": "Beta build",
-    "message": "This version of ONE Launcher is a beta build which is not complete and may contain bugs."
+    "title": "ONE Launcher has been discontinued",
+    "message": "This version of ONE Launcher has been discontinued and will no longer receive support or updates. A rewrite of the project is currently under development."
   },
   "latestJava": {
     "url": "https://download.oracle.com/java/24/archive/jdk-24.0.1_windows-x64_bin.zip",
