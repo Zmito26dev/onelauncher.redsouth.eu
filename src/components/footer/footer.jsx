@@ -14,7 +14,7 @@ export default function Footer() {
         <p className="ft-link-separator">|</p>
         <Link to="/releases" className="ft-link">{t("footer.links.releases")}</Link>
         <p className="ft-link-separator">|</p>
-        <a target='_blank' href="https://docs.onelauncher.zmito.eu/" className="ft-link">{t("footer.links.devs")}</a>
+        <a target='_blank' href="https://docs.onelauncher.redsouth.eu/" className="ft-link">{t("footer.links.devs")}</a>
         <p className="ft-link-separator">|</p>
         <Link to="/content-editor" className="ft-link">{t("footer.links.content-editor")}</Link>
       </div>

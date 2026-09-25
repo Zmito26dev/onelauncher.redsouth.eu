@@ -23,7 +23,7 @@ export default function HomePage() {
           <h2 className="h-title-text">{t("home.title1")}</h2>
           <h2 className="h-title-text">{t("home.title2")}</h2>
         </div>
-        <a href="https://github.com/Zmito26dev/onelauncher.zmito.eu/releases/latest/download/onelauncher-installer.exe" className="h-dl-windows">
+        <a href="https://github.com/Zmito26dev/onelauncher.redsouth.eu/releases/latest/download/onelauncher-installer.exe" className="h-dl-windows">
           {windowsIcon}
           <p>{t("home.dlButton")}</p>
         </a>

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://onelauncher.zmito.eu/",
+  "homepage": "https://onelauncher.redsouth.eu/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

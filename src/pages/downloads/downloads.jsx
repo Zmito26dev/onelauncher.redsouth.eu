@@ -14,7 +14,7 @@ export default function DownloadsPage() {
 
   useEffect(() => {
     const fetchReleases = async () => {
-      const response = await fetch("https://api.github.com/repos/Zmito26dev/onelauncher.zmito.eu/releases");
+      const response = await fetch("https://api.github.com/repos/Zmito26dev/onelauncher.redsouth.eu/releases");
       const data = await response.json();
       setReleases(data);
       console.log(data)
@@ -42,7 +42,7 @@ export default function DownloadsPage() {
           <div className="dl-latest">
             <h2 className="dl-latest-title">{t("releases.title") + releases[0].tag_name}</h2>
             <div className="dl-buttons">
-              <a href="https://github.com/Zmito26dev/onelauncher.zmito.eu/releases/latest/download/onelauncher-installer.exe" className="dl-windows">
+              <a href="https://github.com/Zmito26dev/onelauncher.redsouth.eu/releases/latest/download/onelauncher-installer.exe" className="dl-windows">
                 {windowsIcon}
                 <p>Download for Windows</p>
               </a>
