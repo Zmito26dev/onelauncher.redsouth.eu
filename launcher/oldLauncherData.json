@@ -4,7 +4,7 @@
     "name": "jdk-24.0.1",
     "version": "24.0.1" 
   },
-  "loginBackgroundURL": "https://onelauncher.zmito.eu/launcher/loginBackground.png",
+  "loginBackgroundURL": "https://onelauncher.redsouth.eu/launcher/loginBackground.png",
   "notice": {
     "enabled": false
   }
